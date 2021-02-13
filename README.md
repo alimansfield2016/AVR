@@ -2,7 +2,23 @@
 
 ## Introduction
 
-All of the projects here were built using avr-g++ version 10.1.0. This was to enable use of better optimisations and newer C++ standard features.
+All of the projects here were built using avr-g++ version 10.1.0. This was to enable use of better optimisations and newer C++ standard features. For information on building GCC follow [Building GCC from source](bBuilding-gcc-from-source)
+
+## Projects
+
+Here are the projects included in this repository
+
+### AVR libC++
+
+Standard C++ library for AVR. Currently ported from GCC-x86 headers. No implementation of functions yet. (Feel free to contribute)
+
+### AVR libUSB++
+
+A Full USB-1.1 Low Speed Stack with a C++ API, support for 32 endpoints and more!
+
+### AVR libMultiProcessing
+
+A simple multi-processing library with round-robin scheduling.
 
 
 ## Building GCC from source
