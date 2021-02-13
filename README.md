@@ -25,7 +25,7 @@ A simple multi-processing library with round-robin scheduling.
 
 I recommend following this guide, since it has all the configurations required for AVR, however if this is your first time building GCC from source, I recommend getting familiar with the process by following [this guide](https://gcc.gnu.org/install/)
 
-Firstly, download the GCC source repository from [UK GCC Mirror](ftp://ftp.mirrorservice.org/sites/sourceware.org/pub/gcc/releases/) or go to the official [releases](https://gcc.gnu.org/releases.html)
+Firstly, download the GCC source repository from [UK GCC Mirror](http://ftp.mirrorservice.org/sites/sourceware.org/pub/gcc/releases/) or go to the official [releases](https://gcc.gnu.org/releases.html)
 
 Now that you have the source downloaded in `Downloads/gcc-version/`, create a new directory where you wish to configure the source for building, e.g. `Downloads/avr-gcc-version-build/` would be suitable.
 
