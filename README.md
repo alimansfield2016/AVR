@@ -4,6 +4,10 @@
 
 All of the projects here were built using avr-g++ version 10.1.0. This was to enable use of better optimisations and newer C++ standard features. For information on building GCC follow [Building GCC from source](#Building-gcc-from-source)
 
+## Requirements
+
+Makefiles in this repository **require certain env variables!** Specifially `PRJDIR=/Absolute/Path/To/Repository/Dir`
+
 ## Projects
 
 Here are the projects included in this repository
